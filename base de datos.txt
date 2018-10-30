@@ -1,3 +1,8 @@
 db_name = possedb
 user= root
 pass= ""
+
+
+-Use smarty para gestionar datos que muestro en la vista, por eso hay una carpeta compiler...
+
+-Podría reemplazar smarty por angularjs...
